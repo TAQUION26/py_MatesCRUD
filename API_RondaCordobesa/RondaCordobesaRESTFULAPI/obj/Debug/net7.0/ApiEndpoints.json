@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "RondaCordobesaRESTFULAPI.Controllers.ProductoController",
+    "Method": "GetAllProductos",
+    "RelativePath": "api/Producto/GET ALL PRODUCTS",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
